@@ -1,0 +1,1 @@
+# ethical-hacking-daily-log
