@@ -39,5 +39,10 @@ All learning is done in **controlled and legal environments**.
 
 ---
 
+🟢 Daily logs are auto-created via GitHub Actions.  
+📝 All learning content is written manually in my own words.
+
+---
+
 ## 👨‍💻 Author
 **Devadharsan**
