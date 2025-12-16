@@ -1,19 +1,19 @@
-# 📘 Day 02 – Networking Basics
+#  Day 02 – Networking Basics
 
-## 📅 Date  
+##  Date  
 16-12-2025  
 
-## 🔍 Topics Learned  
+##  Topics Learned  
 - What networking is  
 - What an IP address is  
 - What ports and protocols mean  
 - Basic difference between TCP and UDP  
 
-## 🛠 Tools / Platforms Used  
+##  Tools / Platforms Used  
 - Google articles  
 - Beginner networking tutorials  
 
-## 🧠 What I Learned Today  
+##  What I Learned Today  
 
 Today I learned the basics of computer networking.  
 Networking means connecting computers and devices so they can communicate with each other.
@@ -32,7 +32,7 @@ Two common protocols are TCP and UDP.
 
 Networking is very important for ethical hacking because all attacks and data transfers happen through networks.
 
-## 🔑 Key Takeaways  
+##  Key Takeaways  
 - Networking is the foundation of ethical hacking  
 - IP addresses help identify devices  
 - Ports and protocols control communication  
