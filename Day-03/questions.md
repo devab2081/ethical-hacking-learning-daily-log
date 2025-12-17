@@ -1,5 +1,4 @@
-# Questions – Day 3
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why do most security tools prefer Linux?
+- What makes Linux more secure than other operating systems?
+- Is it possible to use ethical hacking tools on Windows?
