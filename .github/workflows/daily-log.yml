@@ -75,6 +75,17 @@ jobs:
             echo "- What should I revise again?" >> "$FOLDER/questions.md"
             echo "- Interview or thinking questions" >> "$FOLDER/questions.md"
 
+            # diagram.md
+            echo "# Visual Diagram – Day $NEXT_DAY" > "$FOLDER/diagram.md"
+            echo "" >> "$FOLDER/diagram.md"
+            echo "Use this file to add simple text-based diagrams." >> "$FOLDER/diagram.md"
+            echo "" >> "$FOLDER/diagram.md"
+            echo "## Diagram" >> "$FOLDER/diagram.md"
+            echo "" >> "$FOLDER/diagram.md"
+            echo '```' >> "$FOLDER/diagram.md"
+            echo "Add your visual diagram here" >> "$FOLDER/diagram.md"
+            echo '```' >> "$FOLDER/diagram.md"
+
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add "$FOLDER"
