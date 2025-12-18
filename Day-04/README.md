@@ -32,5 +32,7 @@ Ethical hackers also use reconnaissance to understand systems and identify possi
 - Passive recon is safer and less detectable  
 - Understanding recon helps in defense  
 
+Today I revised passive and active reconnaissance concepts.
+
 ## ✅ Status  
 ✔ Completed
