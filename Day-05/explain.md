@@ -1,12 +1,21 @@
-# Simple Explanation – Day 5
+# Web Basics – Simple Explanation (Day 05)
 
-This file explains today's topic in simple terms for beginners.
+## How Do Websites Work?
+A website works by sending requests from the browser to the server.
+The server processes the request and sends a response back.
 
-## What is this topic about?
--
+## What is HTTP?
+HTTP is a protocol used for communication between a browser and a server.
+It does not encrypt data.
 
-## Why is it important?
--
+## What is HTTPS?
+HTTPS is the secure version of HTTP.
+It encrypts data so that attackers cannot easily read it.
 
-## How it is used in security?
--
+## Why HTTPS is Important
+HTTPS protects user data such as passwords and personal information.
+Most secure websites use HTTPS by default.
+
+## Why This Matters for Security
+Many web attacks happen because of weak or misconfigured web communication.
+Understanding HTTP and HTTPS helps in identifying security issues.
