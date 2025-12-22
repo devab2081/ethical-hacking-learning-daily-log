@@ -1,5 +1,4 @@
-# Questions – Day 8
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why is XSS common in web apps?
+- How does XSS affect user trust?
+- Can HTTPS alone prevent XSS?
