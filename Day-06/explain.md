@@ -1,12 +1,16 @@
-# Simple Explanation – Day 6
+# OWASP Top 10 – Simple Explanation (Day 06)
 
-This file explains today's topic in simple terms for beginners.
+## What is OWASP?
+OWASP is a global organization that focuses on improving software security.
 
-## What is this topic about?
--
+## What is OWASP Top 10?
+OWASP Top 10 is a list of the most common security problems found in web applications.
 
-## Why is it important?
--
+## Why is it Important?
+Many developers are not aware of security risks.
+OWASP Top 10 helps teams understand and prevent common attacks.
 
-## How it is used in security?
--
+## Who Should Learn This?
+- Web developers  
+- Security testers  
+- Students learning cybersecurity  
