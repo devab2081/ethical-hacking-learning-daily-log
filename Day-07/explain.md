@@ -1,12 +1,16 @@
-# Simple Explanation – Day 7
+# SQL Injection – Simple Explanation (Day 07)
 
-This file explains today's topic in simple terms for beginners.
+## What is SQL Injection?
+SQL Injection occurs when an application allows unsafe user input to affect database queries.
 
-## What is this topic about?
--
+## Why is it Dangerous?
+Attackers may read, modify, or delete database data.
+They may also bypass login systems.
 
-## Why is it important?
--
+## Why Does It Happen?
+Because applications trust user input without validation.
 
-## How it is used in security?
--
+## How Can It Be Prevented?
+- Validate user input  
+- Use secure query methods  
+- Follow secure coding practices  
