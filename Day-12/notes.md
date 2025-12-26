@@ -1,5 +1,5 @@
-# Personal Notes – Day 12
-
-- Short points
-- Things to revise
-- Important reminders
+### Personal Notes
+- Penetration testing simulates attacks
+- Goes deeper than vulnerability assessment
+- Permission is required
+- Used to test real impact
