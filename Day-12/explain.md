@@ -1,12 +1,14 @@
-# Simple Explanation – Day 12
+# Penetration Testing – Simple Explanation (Day 12)
 
-This file explains today's topic in simple terms for beginners.
+## What is Penetration Testing?
+Penetration testing is a controlled security test that checks how attackers might exploit vulnerabilities.
 
-## What is this topic about?
--
+## Why is it Used?
+It helps organizations understand the real impact of security weaknesses.
 
-## Why is it important?
--
+## How is It Different from Vulnerability Assessment?
+- Vulnerability assessment finds issues  
+- Penetration testing tests the impact  
 
-## How it is used in security?
--
+## Important Rule
+Penetration testing must always be authorized and legal.
