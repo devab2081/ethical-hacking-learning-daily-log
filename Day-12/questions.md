@@ -1,5 +1,4 @@
-# Questions – Day 12
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- When should penetration testing be done?
+- Can penetration testing damage systems?
+- Who is allowed to perform penetration testing?
