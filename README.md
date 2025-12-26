@@ -27,8 +27,24 @@ All practices are done **legally** using labs and learning platforms.
 - Day 08 – Cross Site Scripting (XSS)
 - Day 09 – Authentication & Session Attacks
 - Day 10 – Tools Overview & Practice
-
-*(Continuing daily…)*
+- Day 13 – Security Testing Methodologies  
+- Day 14 – Web Application Architecture Basics  
+- Day 15 – Common Web Application Components  
+- Day 16 – Client-Side vs Server-Side Security  
+- Day 17 – Input Validation & Data Sanitization
+- Day 18 – HTTP Request & Response Deep Dive  
+- Day 19 – Cookies, Sessions, and Tokens  
+- Day 20 – Same-Origin Policy & CORS Basics  
+- Day 21 – File Upload & Download Security  
+- Day 22 – Broken Authentication & Authorization  
+- Day 23 – Insecure Direct Object References (IDOR)  
+- Day 24 – Security Misconfigurations  
+- Day 25 – Sensitive Data Exposure  
+- Day 26 – Web Security Testing Workflow  
+- Day 27 – Introduction to Security Logs & Monitoring  
+- Day 28 – Secure Coding Best Practices  
+- Day 29 – Legal & Ethical Guidelines in Cybersecurity  
+- Day 30 – Learning Review & Security Mindset Summary 
 
 ---
 
