@@ -1,12 +1,20 @@
-# Simple Explanation – Day 13
+# Security Testing Methodologies – Simple Explanation (Day 13)
 
-This file explains today's topic in simple terms for beginners.
+## What is a Security Testing Methodology?
+A security testing methodology is a step-by-step approach used to test systems for security weaknesses.
 
-## What is this topic about?
--
+## Why is it Needed?
+Without a methodology, testing may miss important security areas.
+A structured approach ensures all parts of a system are reviewed.
 
-## Why is it important?
--
+## Common Phases in Security Testing
+- Planning the test scope  
+- Information gathering  
+- Testing for weaknesses  
+- Analyzing results  
+- Reporting findings  
 
-## How it is used in security?
--
+## Who Uses Security Testing Methodologies?
+- Ethical hackers  
+- Security testers  
+- Organizations protecting applications  
