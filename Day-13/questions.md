@@ -1,5 +1,4 @@
-# Questions – Day 13
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why is a methodology important in security testing?
+- Can testing be effective without a defined approach?
+- How does methodology improve reporting quality?
