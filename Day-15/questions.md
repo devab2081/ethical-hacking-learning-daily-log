@@ -1,5 +1,4 @@
-# Questions – Day 15
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Which component is most critical for security?
+- Why should frontend validation not be trusted alone?
+- How can weak backend logic affect the application?
