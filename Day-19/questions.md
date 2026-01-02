@@ -1,5 +1,4 @@
-# Questions – Day 19
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why should sensitive data not be stored directly in cookies?
+- How are tokens different from sessions?
+- What happens if a session ID is stolen?
