@@ -1,5 +1,4 @@
-# Questions – Day 21
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why are file upload features risky?
+- How can access control improve download security?
+- What checks should be done before saving files?
