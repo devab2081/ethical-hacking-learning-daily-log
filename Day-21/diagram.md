@@ -1,9 +1,28 @@
-# Visual Diagram – Day 21
+# Day 21 – File Upload & Download Security (Visual Diagram)
 
-Use this file to add simple text-based diagrams.
-
-## Diagram
+## Secure File Upload Flow
 
 ```
-Add your visual diagram here
+User Upload Request
+|
+v
+File Validation (Type & Size)
+|
+v
+Secure Storage
+
+```
+---
+
+## Secure File Download Flow
+
+```
+User Download Request
+|
+v
+Permission Check
+|
+v
+File Served
+
 ```
